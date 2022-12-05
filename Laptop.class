@@ -1,8 +1,8 @@
-package com.mycompany.uts_oop;
+package com.mycompany.uts_enkapsulasi;
 
 /**
  *
- * @author AMALYA SYOHIBA
+
  */
 class Laptop{
     String Merk;
@@ -10,7 +10,7 @@ class Laptop{
     String JenisProcessor;
     String UkuranLayar;
 }
-public class UTS_OOP {
+public class uts_enkapsulasi {
 
    public static void main(String[] args) {
         Laptop Laptopku = new Laptop();
